@@ -1,0 +1,1 @@
+var json_markerpondok_3 = {"type":"FeatureCollection","name":"markerpondok_3","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1","nama":"ponpes"},"geometry":{"type":"Point","coordinates":[0.028460971929603,-0.010431594302555]}}]}
